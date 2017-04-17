@@ -15,7 +15,8 @@ You should implement the following views and navigation between them:
   - functionality to send a new chat message
   
 ### Technology constraints & considerations
-- Use [AngularJS](https://angularjs.org/)
+- Use [AngularJS](https://angularjs.org/) 1.x
+- Use [Angular Material](https://material.angularjs.org/latest/)
 - You may use additional libraries, but if you do explain why you did
 - Include instructions how to run the app & tests. Include enough mock data for us to test your UI.
 - You might want to have look at the available boilerplate projects to get started, e.g. https://github.com/angular/angular-seed
